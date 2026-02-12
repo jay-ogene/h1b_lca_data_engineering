@@ -1,10 +1,14 @@
 # H1B LCA Data Engineering Project
 This project aims to build an end-to-end data pipeline and analytics on the H1B LCA Disclosure data (2020-2024).
+
 Introduction
+
 What is H1B Data?
+
 H1B visas allow U.S. employers to hire foreign professionals in specialized fields such as IT, finance, healthcare, and engineering. Before an employer can sponsor a potential H1B worker, they must file a Labor Condition Application (LCA) with the U.S. Department of Labor. Each LCA disclosure includes details about the job title, employer, wage, and worksite, creating a large dataset of sponsorship trends.
 
 Why Does It Matter?
+
 Workforce Insights
 The H1B program shines a light on in-demand skills across U.S. industries. By analyzing wage data, job roles, and geographic distribution, we see which tech stacks or business sectors are most reliant on foreign talent.
 Economic Impact
